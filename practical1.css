@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(255, 208, 181);
+}
+h1{
+    background-color: rgba(230, 93, 40, 0.979);
+    color: rgb(255, 171, 138);
+    font-family: Georgia, serif;
+    text-align: center;
+    border:10px solid rgb(255, 115, 0);  
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right:10px;
+}
+
+h3{
+    margin-left: 10px;
+}
+
+p{
+    font-family: monospace;
+    font-size: 20px;
+    margin-left: 7px;
+}
+
+.body{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    
+}
+
+
+.navbarlist {
+    list-style-type: none;
+    margin: 10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+  
+
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #111;
+}
